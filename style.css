@@ -70,7 +70,7 @@ nav ul li a::after{
     margin-top: 20px;
 }
 
-/* about */
+/*------------------------------ about----------------------------------- */
 
 #about {
     padding: 80px 0;
@@ -159,12 +159,7 @@ nav ul li a::after{
 
 }
 
-/* .services-list{
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
-    grid-gap:40px;
-    margin-top: 50px;
-} */
+/* ----------------------Portfolio-------------------------------- */
 
 #portfolio{
     padding: 50px 0;
@@ -200,9 +195,20 @@ nav ul li a::after{
     padding: 50px 0;
 }
 
-.contact #conta.sub-title p{
-    padding: 20px 0;
+.btn {
+    color:white;
+    background:#ff004f;
+    display: inline-block;
+    margin:50px auto;
+    width: fit-content;
+    border: 15px solid #ff004f;
+    border-radius: 15px;
+
 }
+    
+
+
+
 
 
 
